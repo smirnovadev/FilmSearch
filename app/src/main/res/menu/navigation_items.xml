@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/moviesFragment"
+    android:icon="@drawable/ic_movies_foreground"
+    android:title="Movies"/>
+    <item
+        android:id="@+id/peopleFragment"
+        android:icon="@drawable/ic_people_foreground"
+        android:title="Persons"/>
+    <item
+        android:id="@+id/infoFragment"
+        android:icon="@drawable/ic_info_foreground"
+        android:title="Info"/>
+
+</menu>
